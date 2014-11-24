@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a bunch of bullshit 
+=======
+this is new stuff
+>>>>>>> 9950339ada481ae7e0c8a777a026e79591bcc801
